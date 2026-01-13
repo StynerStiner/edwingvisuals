@@ -1,5 +1,7 @@
 # Edwin Pencil Visuals
 
+![Edwin Pencil Visuals](src/images/homepage/%20eventsection-image.png)
+
 Professional Videography, Photography & Portrait Painting Services
 
 ## About
