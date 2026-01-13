@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Halfre';
+  src: url('./halfre-2025-04-14-23-14-58-utc/Web-TT/Halfre.woff2') format('woff2'),
+       url('./halfre-2025-04-14-23-14-58-utc/Web-TT/Halfre.woff') format('woff'),
+       url('./halfre-2025-04-14-23-14-58-utc/Web-TT/Halfre.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
